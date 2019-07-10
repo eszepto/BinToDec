@@ -1,0 +1,21 @@
+﻿<Window x:Class="BinToDec.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="369.231" Width="806.593" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-7,0" Background="MediumPurple">
+        <Label x:Name="LabelTopic" Foreground="White" Content="C#&#xD;&#xA;"  Margin="10,0,439,20" FontSize="250" />
+        <TextBox x:Name="TextBinary" HorizontalAlignment="Left" Height="46" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Margin="590,43,0,0" FontSize="36" PreviewTextInput="BinaryValidationTextBox"/>
+        <TextBox x:Name="TextDemical" HorizontalAlignment="Left" Height="46" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165" Margin="590,175,0,0" FontSize="36" IsReadOnly="True" />
+        <Label x:Name="LabelBinary" Content="Binary:" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="511,43,0,0" Height="46" Width="74" FontSize="22"/>
+        <Label x:Name="LabelDemical" Content="Demical:" Foreground="White" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="493,175,0,0" Height="46" Width="92" FontSize="22"/>
+        <Button x:Name="ButtonConvert" Content="Convert" Foreground="Black" HorizontalAlignment="Left" VerticalAlignment="Top" Width="97" Margin="620,107,0,0" Height="50" Click="ButtonConvert_Click" FontFamily="Tahoma" FontSize="24"/>
+
+
+
+
+    </Grid>
+</Window>

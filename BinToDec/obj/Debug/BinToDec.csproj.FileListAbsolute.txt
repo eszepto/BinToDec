@@ -1,0 +1,14 @@
+C:\Users\B\Desktop\WpfApp00\WpfApp00\bin\Debug\BinToDec.exe.config
+C:\Users\B\Desktop\WpfApp00\WpfApp00\bin\Debug\BinToDec.exe
+C:\Users\B\Desktop\WpfApp00\WpfApp00\bin\Debug\BinToDec.pdb
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.csprojAssemblyReference.cache
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\MainWindow.baml
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\MainWindow.g.cs
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\App.g.cs
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec_MarkupCompile.cache
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.g.resources
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.Properties.Resources.resources
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.csproj.GenerateResource.cache
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.csproj.CoreCompileInputs.cache
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.exe
+C:\Users\B\Desktop\WpfApp00\WpfApp00\obj\Debug\BinToDec.pdb
